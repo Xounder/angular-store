@@ -1,0 +1,15 @@
+.container {
+  position: absolute;
+  right: 0;
+  bottom: 100px;
+  width: 120px;
+  height: 30px;
+  background-color: black;
+  align-content: center;
+}
+
+.container > p {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}

@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: self-start;
+  padding-top: 70px;
+}
+
+.container > app-card {
+  margin-top: 10px;
+}
